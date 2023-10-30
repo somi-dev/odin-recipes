@@ -1,0 +1,27 @@
+body {
+    font-family: monospace, Verdana, sans-serif;
+}
+
+.title {
+    background-color: orange;
+}
+
+.ingredients,
+.steps {
+    background-color: beige;
+}
+
+.title-image {
+    width: 30%;
+    height: auto;
+}
+
+img {
+    width: 25%;
+    height: auto;
+}
+
+p {
+    color: rgb(170, 29, 29);
+    font-weight: bold;
+}
