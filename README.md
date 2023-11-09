@@ -3,3 +3,5 @@ This project was about creating a simple recipes website using basic basic HTML 
 
 CSS:
 Add simple changes to the HTML elements such as color, background color, typography properties, etc
+
+<a href="https://somi-dev.github.io/odin-recipes/">open site!</a>
